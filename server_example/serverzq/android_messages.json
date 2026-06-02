@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2025-12-08T10:35:14.651763",
+    "message": "Hello from Android!",
+    "counter": 1
+  },
+  {
+    "timestamp": "2025-12-08T10:36:20.328013",
+    "message": "gi",
+    "counter": 2
+  },
+  {
+    "timestamp": "2025-12-08T10:36:20.356013",
+    "message": "gi",
+    "counter": 3
+  },
+  {
+    "timestamp": "2025-12-08T13:42:06.887983",
+    "message": "Hello from Android!",
+    "counter": 1
+  },
+  {
+    "timestamp": "2025-12-08T13:42:30.562953",
+    "message": "yes",
+    "counter": 2
+  },
+  {
+    "timestamp": "2025-12-08T13:42:42.281007",
+    "message": "yes",
+    "counter": 3
+  },
+  {
+    "timestamp": "2025-12-08T13:43:05.784997",
+    "message": "yes",
+    "counter": 4
+  },
+  {
+    "timestamp": "2025-12-25T10:17:06.778211",
+    "message": "Hello from Android!",
+    "counter": 1
+  },
+  {
+    "timestamp": "2025-12-25T10:17:15.639247",
+    "message": "Hello from Android!",
+    "counter": 2
+  },
+  {
+    "timestamp": "2025-12-25T10:18:16.369063",
+    "message": "Hello from Android",
+    "counter": 3
+  },
+  {
+    "timestamp": "2025-12-25T11:01:51.828707",
+    "message": "gi",
+    "counter": 1
+  },
+  {
+    "timestamp": "2025-12-25T11:02:09.722717",
+    "message": "gi",
+    "counter": 2
+  },
+  {
+    "timestamp": "2025-12-25T11:02:12.768843",
+    "message": "gi",
+    "counter": 3
+  },
+  {
+    "timestamp": "2025-12-25T11:02:43.486962",
+    "message": "защитите лабу плтз",
+    "counter": 4
+  },
+  {
+    "timestamp": "2025-12-25T11:02:55.609683",
+    "message": "защитите лабу плтз",
+    "counter": 5
+  },
+  {
+    "timestamp": "2025-12-25T11:03:03.897483",
+    "message": "защитите лабу плтз",
+    "counter": 6
+  },
+  {
+    "timestamp": "2025-12-25T11:38:32.467336",
+    "message": "защитите лабу плтз",
+    "counter": 7
+  },
+  {
+    "timestamp": "2025-12-25T11:38:35.036419",
+    "message": "защитите лабу плтз",
+    "counter": 8
+  },
+  {
+    "timestamp": "2025-12-25T11:39:11.948397",
+    "message": "защитите лабу плтз",
+    "counter": 9
+  },
+  {
+    "timestamp": "2025-12-25T11:40:09.914178",
+    "message": "taaaaaaaaa",
+    "counter": 10
+  },
+  {
+    "timestamp": "2026-02-26T13:04:46.517703",
+    "message": "Hello from Android!",
+    "counter": 1
+  },
+  {
+    "timestamp": "2026-02-26T13:05:07.558337",
+    "message": "Hello from Android!",
+    "counter": 2
+  },
+  {
+    "timestamp": "2026-02-26T13:05:54.594353",
+    "message": "Hello from Android!",
+    "counter": 3
+  },
+  {
+    "timestamp": "2026-02-26T14:45:22.507167",
+    "message": "Hello from Android!",
+    "counter": 1
+  },
+  {
+    "timestamp": "2026-02-26T14:45:22.924018",
+    "message": "Hello from Android!",
+    "counter": 2
+  },
+  {
+    "timestamp": "2026-02-26T14:52:58.729924",
+    "message": "Hello from Android!",
+    "counter": 1
+  },
+  {
+    "timestamp": "2026-02-26T15:08:10.183583",
+    "message": "Hello from Android!",
+    "counter": 2
+  },
+  {
+    "timestamp": "2026-02-26T15:11:40.194838",
+    "message": "Hello from Android!",
+    "counter": 1
+  }
+]
